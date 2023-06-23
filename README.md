@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MV
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning ML, NLP
+- 🌱 ML, NLP
 - 📫 How to reach me monika8oct@gmail.com
 
 <!---
