@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Monika Vyas, Fullstack developer, expetise in latest front-end and backend technologies.
+- 👋 Hi, I’m Monika Vyas, Fullstack developer, expertise in latest front-end and backend technologies.
 - 👀 I'm interested in taking on new challenges, so I'm learning data science. 
 - 🌱 Software Development, ML, NLP
 - 📫 How to reach me monika8oct@gmail.com
