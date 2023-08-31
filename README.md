@@ -1,6 +1,6 @@
-- 👋 Hi, I’m MV
-- 👀 I’m interested in data science
-- 🌱 ML, NLP
+- 👋 Hi, I’m Monika Vyas, Fullstack developer, expetise in latest front-end and backend technologies.
+- 👀 I'm interested in taking on new challenges, so I'm learning data science. 
+- 🌱 Software Development, ML, NLP
 - 📫 How to reach me monika8oct@gmail.com
 
 <!---
