@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Monika Vyas, a Full Stack Developer with over 
 
 I excel in the software development life cycle, employing a test-driven development approach. I'm experienced in Agile methodologies, issue-tracking tools, and continuous integration/continuous deployment (CI/CD) practices. I have a proven track record of delivering high-quality code, conducting thorough code reviews, and ensuring mobile responsiveness and accessibility.
 
-## Data Science and NLP Enthusiast
+##  📊 Data Science and NLP Enthusiast
 
 I'm passionate about data science, natural language processing (NLP), and machine learning. While I have a strong background as a Full Stack Developer, I've also been exploring the exciting world of data science.
 
