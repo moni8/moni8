@@ -66,7 +66,7 @@ Here are some key projects I've worked on:
 
 #### Technologies Used
 
-- **Python:** Used for data analysis, report generation, and conversion scripts.
+- **Python (Django):** Used for data analysis, report generation, and conversion scripts.
 
 - **Web Development:** Created an intuitive web interface for user interaction using HTML5, CSS3, Bootstrap, React JS, Redux, Axios, Node JS, Rest APIs.
 
