@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm Monika Vyas, a Full Stack Developer with over 
 
 ## 🔧 Technologies & Skills
 
-- **Front-end:** HTML5, CSS3, JavaScript, jQuery, Vue.js, Angular Js, React, Redux
+- **Front-end:** HTML5, CSS3, Bootstrap, Scss, JavaScript, ECMAScript, Axios, Ajax, jQuery, Vue.js, Angular Js, React, Redux
 - **Back-end:** Node.js, Python, Django, PHP
-- **Databases:** PostgreSQL, MySQL, SQL
+- **Databases:** PostgreSQL, MySQL, SQL, MongoDB
 - **Version Control:** Git, Bitbucket
 - **DevOps & Cloud:** Azure, Docker
 - **Machine Learning:** Python, NLP libraries (NLTK, Gensim, TensorFlow, PyTorch, Keras), Pandas, Scikit-Learn
