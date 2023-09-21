@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm Monika Vyas, a Full Stack Developer with over 
 - **Version Control:** Git, Bitbucket
 - **DevOps & Cloud:** Azure, Docker
 - **Machine Learning:** Python, NLP libraries (NLTK, Gensim, TensorFlow, PyTorch, Keras), Pandas, Scikit-Learn
+- **Project Management & Tools:** Agile methodologies, Jira, Confluence
 
 ## 🚀 What I Do
 
