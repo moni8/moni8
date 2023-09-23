@@ -31,7 +31,7 @@ Check out my NLP assignments in the [NLP Projects](https://github.com/moni8/natu
 
 Here are some key projects I've worked on:
 
-1. **H2DB Tool** -
+1. **Legacy data conversion Tool** -
     I've developed a powerful web application for data migration and analysis. This project is designed to help organizations seamlessly transition their data from legacy sources to modern platforms while ensuring data integrity and quality.
 
 #### Key Features
