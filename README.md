@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Monika Vyas, a Full Stack Developer with over a decade of experience in the software industry. I'm passionate about creating innovative and efficient solutions for a wide range of domains, including healthcare, retail, manufacturing, automobile, and banking.
+Welcome to my GitHub profile! I'm Monika Vyas, a Full Stack Developer with over 10 years of experience in the software industry. I'm passionate about creating innovative and efficient solutions for a wide range of domains, including healthcare, retail, manufacturing, automobile, and banking.
 
 ## 🔧 Technologies & Skills
 
